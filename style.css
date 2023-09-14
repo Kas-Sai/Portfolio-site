@@ -321,6 +321,7 @@ body{
    nav .fa-solid{
       display: block;
       font-size: 25px;
+      padding: 18px;
    }
    nav ul{
       background: #ff004f;
@@ -339,8 +340,8 @@ body{
     }
     nav ul .fa-solid{
       position: absolute;
-      top: 25px;
-      left: 25px;
+      top: 5px;
+      left: 12px;
       cursor: pointer;
     } 
    .sub-title{
