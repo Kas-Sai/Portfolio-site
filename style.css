@@ -10,7 +10,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(https://i.ibb.co/mJk4TX3/Background-1.png);
+    background-image: url(https://github.com/Kas-Sai/Sk-profile/blob/main/Resource/backimg.png?raw=true);
     background-size: cover;
     background-position: center;
 }
@@ -278,18 +278,17 @@ body{
         color: #fff;
         transform: translateY(-5px);
 }
-.btn.btn2{
+.download-btn{
    display: inline-block;
-   background: #f1004c;
-   color: #fff;
+    background-color: #f1004c;
+    color: aliceblue;
+    padding: 0.6rem;
+   font-size: 1rem;
    text-decoration: none;
+   border-radius: 5px;
+   margin: 10px 0;
  }
- .contact-left button{
-   margin-top: 20px;
-   font-size: 17px;
- }
-
- .footer{
+.footer{
    width: 100%;
    text-align: center;
    font-size: 18px;
